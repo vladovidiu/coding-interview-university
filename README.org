@@ -1,1 +1,3 @@
 #+TITLE: Coding Interview University
+#+AUTHOR: Vlad Tutunea
+#+DATE: <2021-06-07 Mon>
