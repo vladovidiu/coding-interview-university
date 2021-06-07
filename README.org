@@ -1,3 +1,14 @@
 #+TITLE: Coding Interview University
 #+AUTHOR: Vlad Tutunea
 #+DATE: <2021-06-07 Mon>
+
+* Interview Process
+** Prep [/]
+- [ ] [[https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1][How to Pass the Engineering Interview in 2021]]
+*** How to get a Job at the Big 4 [/]
+- [ ] [[https://www.youtube.com/watch?v=YJZCUhxNCv8][How to get a job at FAANG part 1]]
+- [ ] [[https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be][How to get a job at FAANG part 2]]
+** Language [/]
+*** Choosing a language for the interview [/]
+- [ ] [[http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview][Choosing the right language]]
+- [ ] [[http://blog.codingforinterviews.com/best-programming-language-jobs/][Best programming language jobs]]
