@@ -3,12 +3,36 @@
 #+DATE: <2021-06-07 Mon>
 
 * Interview Process
-** Prep [/]
-- [ ] [[https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1][How to Pass the Engineering Interview in 2021]]
-*** How to get a Job at the Big 4 [/]
-- [ ] [[https://www.youtube.com/watch?v=YJZCUhxNCv8][How to get a job at FAANG part 1]]
-- [ ] [[https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be][How to get a job at FAANG part 2]]
+** Prep [1/1]
+- [X] [[https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1][How to Pass the Engineering Interview in 2021]]
+*** How to get a Job at the Big 4 [2/2]
+- [X] [[https://www.youtube.com/watch?v=YJZCUhxNCv8][How to get a job at FAANG part 1]]
+- [X] [[https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be][How to get a job at FAANG part 2]]
 ** Language [/]
 *** Choosing a language for the interview [/]
 - [ ] [[http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview][Choosing the right language]]
 - [ ] [[http://blog.codingforinterviews.com/best-programming-language-jobs/][Best programming language jobs]]
+* Plan
+** I won't remember it all
+[[https://startupnextdoor.com/retaining-computer-science-knowledge/][Retaining Computer Science Knowledge]]
+** Flashcards
+Create flashcards for everything worthy of remembering. Try [[http://ankisrs.net/][Anki]].
+Use /space repetition/ to get better over time.
+** Start doing coding interview questions while learning DS and algo
+Once I learned a topic, open one of the interview books and do a few questions (or any equivalent website like LeetCoder).
+** Review, review, review
+Repo comes with cheatsheets. Make a habit of going over them at various times.
+Take a break from questions and go through the flashcards.
+** Focus
+As per =Deep Work= book, use the most productive time to learn.
+
+* Prerequisite Knowledge
+Learning =C= would be amazing. Here's a good, short book - [[https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628][The C Programming Language, Vol 2]]
+** How computers process a program [/]
+- [ ] [[https://www.youtube.com/watch?v=XM4lGflQFvA][How CPU executes a program]]
+- [ ] [[https://youtu.be/1I5ZMmrOfnA][How computers calculate - ALU]]
+- [ ] [[https://youtu.be/fpnE6UAfbtU][Registers and RAM]]
+- [ ] [[https://youtu.be/FZGugFqdr60][The Central Processing Unit (CPU)]]
+- [ ] [[https://youtu.be/zltgXvg6r3k][Instructions and Programs]]
+
+
